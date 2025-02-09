@@ -22,7 +22,7 @@ industry, I thrive on solving complex problems and optimizing backend systems.
 
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rumee-ahmed) [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue?style=flat&logo=twitter)](https://twitter.com/rumeeahmed) [![Email](https://img.shields.io/badge/Email-rumeeahmad@gmail.com-red?style=flat&logo=gmail)](mailto:rumeeahmad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rumeeahmed-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rumee-ahmed) [![Twitter](https://img.shields.io/badge/Twitter-rumeeahmed-blue?style=flat&logo=twitter)](https://twitter.com/rumeeahmed) [![Email](https://img.shields.io/badge/Email-rumeeahmad@gmail.com-red?style=flat&logo=gmail)](mailto:rumeeahmad@gmail.com)
 
 ---
 
