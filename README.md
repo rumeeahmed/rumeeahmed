@@ -42,6 +42,8 @@ industry, I thrive on solving complex problems and optimizing backend systems.
 <img align="left" alt="GCLOUD" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 
 
+
+
 # 📊 Github Stats
 
 <p align="center">
