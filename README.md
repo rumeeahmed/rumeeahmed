@@ -51,3 +51,5 @@ industry, I thrive on solving complex problems and optimizing backend systems.
     <img title="🔥Get streak stats for your profile at git.io/streak-stats" width=100% alt="rumee-ahmed-streaks" src="https://streak-stats.demolab.com?user=rumeeahmed&theme=blood&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
+
+[![Rumees's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rumeeahmed&&bg_color=FFFF&color=FF5F5F&line=FF5F5F&point=367391)](https://github.com/ashutosh00710/github-readme-activity-graph)
