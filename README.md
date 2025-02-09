@@ -24,8 +24,6 @@ industry, I thrive on solving complex problems and optimizing backend systems.
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rumeeahmed-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rumee-ahmed) [![Twitter](https://img.shields.io/badge/Twitter-rumeeahmed-blue?style=flat&logo=twitter)](https://twitter.com/rumeeahmed) [![Email](https://img.shields.io/badge/Email-rumeeahmad@gmail.com-red?style=flat&logo=gmail)](mailto:rumeeahmad@gmail.com)
 
----
-
 ### 🧰 Languages, Tools & Frameworks
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
