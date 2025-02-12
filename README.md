@@ -48,7 +48,7 @@ industry, I thrive on solving complex problems and optimizing backend systems.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥Get streak stats for your profile at git.io/streak-stats" width=100% alt="rumee-ahmed-streaks" src="https://streak-stats.demolab.com?user=rumeeahmed&theme=blood&date_format=j%20M%5B%20Y%5D"/>
+    <img title="🔥Get streak stats for your profile at git.io/streak-stats" width=100% alt="rumee-ahmed-streaks" src="https://streak-stats.demolab.com?user=rumeeahmed&theme=blood"/>
   </a>
 </p>
 
